@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "IS_DEV=true TOKEN=u100001 node index.js",
+    "start": "IS_DEV=true TOKEN=u100003 node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "test-worker-module": "^1.0.61"
+    "test-worker-module": "^1.0.688"
   }
 }
