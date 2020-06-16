@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "test-worker-module": "^1.0.688"
+    "test-worker-module": "^1.0.71"
   }
 }
